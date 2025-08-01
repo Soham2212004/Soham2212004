@@ -61,17 +61,20 @@ I am a passionate Computer Science student with a keen interest in Machine Learn
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### AI & Automation Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white) 
-![Gemini](https://img.shields.io/badge/Gemini-%230056AE.svg?style=for-the-badge&logo=google&logoColor=white) 
-![Claude](https://img.shields.io/badge/Claude-%230066CC.svg?style=for-the-badge&logo=anthropic&logoColor=white) 
-![Perplexity](https://img.shields.io/badge/Perplexity-%23001E6C.svg?style=for-the-badge&logo=perplexity&logoColor=white) 
-![Groq](https://img.shields.io/badge/Groq-%23FF3366.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0AMy5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik00OC43MzIgNDcuMzM4TDI3LjAyMiAyNS42MjZIMzMuMDA0VjE3LjY2NEgxNS4zMzRWMzUuMzMz%0D%0ASFY0Ny4zMzhIMjMuNjY0VjM5LjM3MUgyNy4wMjJMNDEuNzAzIDU0LjA1OEw0OC43MzIgNDcuMzM4WiIgZmlsbD0iI0ZGMzM2NiIvPjwvc3ZnPg==&logoColor=white) 
-![Stability AI](https://img.shields.io/badge/Stability%20AI-%230065FF.svg?style=for-the-badge&logo=stability%20ai&logoColor=white) 
-![n8n](https://img.shields.io/badge/n8n-%23EF7B4D.svg?style=for-the-badge&logo=n8n&logoColor=white) 
-![AI Automation](https://img.shields.io/badge/AI%20Automation-%2300C49A.svg?style=for-the-badge&logo=automattic&logoColor=white) 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-%236633CC.svg?style=for-the-badge&logo=robotframework&logoColor=white) 
-![Bolt](https://img.shields.io/badge/Bolt-%23FFBB00.svg?style=for-the-badge&logo=zapier&logoColor=black) 
-![Lovable AI](https://img.shields.io/badge/Lovable-%23FF69B4.svg?style=for-the-badge&logo=heart&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-%2320B2AA.svg?style=for-the-badge&logo=perplexity&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-%23F55036.svg?style=for-the-badge&logo=groq&logoColor=white)
+![Stability AI](https://img.shields.io/badge/Stability%20AI-%23000000.svg?style=for-the-badge&logo=stabilityai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%236837FF.svg?style=for-the-badge&logo=integromat&logoColor=white)
+![StackBlitz](https://img.shields.io/badge/StackBlitz-%231374EF.svg?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-%23667881.svg?style=for-the-badge&logo=replit&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-%23FF6B6B.svg?style=for-the-badge&logo=heart&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt.new-%23000000.svg?style=for-the-badge&logo=lightning&logoColor=white)
 
 
 
