@@ -11,9 +11,17 @@ https://github.com/user-attachments/assets/d86c05cf-2280-4983-a400-dc15250722fc
 
 
 
-# 💫 About Me:
-I am a passionate Computer Science student with a keen interest in Machine Learning, Artificial Intelligence, and Data Science. I enjoy solving complex problems and building innovative solutions through coding and data analysis.<br><br> 🌱 I’m currently learning Deep Learning and Advanced Data Analysis.<br> 💼 I’m looking for internship opportunities in Machine Learning and Data Science.<br> 👯 I’m looking to collaborate on projects related to Machine Learning and Open Source.<br> 💬 Ask me about Python, Machine Learning, Data Science, and Web Development.<br> 📫 How to reach me: sonisoham91@gmail.com<br>
+# 💫 About Me
 
+I'm a Software Engineer at **AV DEVS Solutions Pvt. Ltd.**, specializing in AI engineering: LLMs, RAG pipelines, and agentic AI systems. I hold a B.Tech in Computer Science from Parul University, and I enjoy turning complex problems into production-ready solutions across the full stack.
+
+- 🌱 Currently deepening my work in agentic AI and time-aware RAG
+- 💼 Building with Python, Docker, PostgreSQL on AWS RDS, EC2, and AWS Bedrock
+- 🎓 Oracle OCI 2024 Generative AI certified | LangGraph Certified Developer
+- 👯 Open to collaborating on AI/LLM projects and open source
+- 💬 Ask me about Python, LLMs, RAG, agentic systems, and backend development
+- 📍 Based in Vadodara, India
+- 📫 Reach me: sonisoham91@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_soham_soni_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soham-soni-2342b4239) 
