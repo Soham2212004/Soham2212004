@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Soham Soni - Applied AI and Full-Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#8957e5"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1000V170C900 205 800 205 700 175C600 145 500 145 400 175C300 205 200 205 100 175C60 163 30 160 0 165Z" fill="url(#bg)"/>
+  <text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Soham Soni</text>
+  <text x="500" y="138" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#e6edf3">Applied AI &amp; Full-Stack Engineer</text>
+</svg>
