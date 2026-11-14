@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=200&section=header&text=Soham%20Soni&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Applied%20AI%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=20" alt="Soham Soni header" />
+  <img src="https://raw.githubusercontent.com/Soham2212004/Soham2212004/main/header.svg" alt="Soham Soni header" />
 </p>
 
 <p align="center">
@@ -265,7 +265,7 @@ I'm open to **full-time, part-time, freelance, contract, and research** opportun
 - ✨ I'm a strong advocate for clean code and best practices in software development.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:1f6feb&height=120&section=footer" alt="footer" />
+  <img src="https://raw.githubusercontent.com/Soham2212004/Soham2212004/main/footer.svg" alt="footer" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
