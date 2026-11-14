@@ -16,7 +16,6 @@
   <a href="https://instagram.com/_soham_soni_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-https://github.com/user-attachments/assets/d86c05cf-2280-4983-a400-dc15250722fc
 
 ---
 
