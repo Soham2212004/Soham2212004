@@ -27,8 +27,6 @@ I'm a Software Engineer at **AV DEVS Solutions Pvt. Ltd.**, specializing in AI e
 |---|---|
 | 🌱 **Focus** | Agentic AI and time-aware RAG |
 | 💼 **Building with** | Python, Docker, PostgreSQL on AWS RDS, EC2, AWS Bedrock |
-| 🏆 **Newest badge** | Microsoft Pro Badge – GitHub Copilot (Proficient), Nov 2026 |
-| 🎓 **Certified** | Oracle OCI 2024 Generative AI · LangGraph Certified Developer |
 | 🥇 **Recognition** | Best Performer of the Quarter at AV DEVS |
 | 👯 **Open to** | Collaborating on AI/LLM projects and open source |
 | 💬 **Ask me about** | Python, LLMs, RAG, agentic systems, backend development |
@@ -113,7 +111,8 @@ I earned the **GitHub Copilot – Proficient** Pro Badge from Microsoft on **Nov
 
 | Certification | Issuer | Date |
 |---|---|---|
-| 🆕 **GitHub Copilot – Proficient (Pro Badge)** | Microsoft | Nov 2026 |
+| 🆕 **AWS Partner: Generative AI Technical** | AWS Training and Certification | Nov 2026 |
+| **GitHub Copilot – Proficient (Pro Badge)** | Microsoft | Nov 2026 |
 | Build AI Agents and Chatbots with LangGraph | LinkedIn Learning | May 2025 |
 | AI Agent Workshop (Agentforce) | GeeksforGeeks / Salesforce | 2025 |
 | Oracle Cloud Infrastructure Generative AI Certified Professional | Oracle | Jul 2024 |
